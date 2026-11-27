@@ -1,0 +1,4 @@
+com.nook.reader.test.app-androidTest-0 C:\Users\aryaa\Documents\Project Python\AI Reader\nook\app\build\generated\res\resValues\androidTest\debug
+com.nook.reader.test.app-mergeDebugAndroidTestResources-1 C:\Users\aryaa\Documents\Project Python\AI Reader\nook\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.nook.reader.test.app-mergeDebugAndroidTestResources-2 C:\Users\aryaa\Documents\Project Python\AI Reader\nook\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.nook.reader.test.app-debugAndroidTest-3 C:\Users\aryaa\Documents\Project Python\AI Reader\nook\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

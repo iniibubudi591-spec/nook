@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_bg">#3D5A80</color>
+    <string name="app_name">Nook</string>
+    <style name="Theme.Nook" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
